@@ -5,6 +5,10 @@ A super simple spellchecker that compares spelling of files passed as arguments 
 dictionary. It generates a set to compare against before every iteration, and simply separates
 words on whitespace to compare versus this set.
 
+```
+$ spellchecker writing.txt
+```
+
 # TODO
 ---
 
